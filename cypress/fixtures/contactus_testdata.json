@@ -1,0 +1,9 @@
+{
+    "FirstName" :"John",
+    "LastName":"Willson",
+    "Email": "jwillison@gmail.com",
+    "MobilePhone": "+15853042346",
+    "HowDidYouHearAboutUs": "Instagram",
+    "Message": "Testing",
+    "SuccessMsg": "Thank you for your message. We'll get back to you as soon as possible."
+}
